@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '36133'
     url: http://www.gutenberg.org/2009/agents/36133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42189#The-Expositor-s-Bible--The-Book-of-Proverbs
 gutenberg_issued: '2013-02-25'
 gutenberg_type: Text
 identifiers:
